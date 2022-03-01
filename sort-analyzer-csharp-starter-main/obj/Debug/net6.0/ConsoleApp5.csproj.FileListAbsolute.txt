@@ -1,0 +1,15 @@
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\bin\Debug\net6.0\ConsoleApp5.exe
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\bin\Debug\net6.0\ConsoleApp5.deps.json
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\bin\Debug\net6.0\ConsoleApp5.runtimeconfig.json
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\bin\Debug\net6.0\ConsoleApp5.dll
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\bin\Debug\net6.0\ref\ConsoleApp5.dll
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\bin\Debug\net6.0\ConsoleApp5.pdb
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ConsoleApp5.dll
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ref\ConsoleApp5.dll
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ConsoleApp5.pdb
+C:\Users\m.lavallee3\Desktop\cs30\sort-analyzer-csharp-starter-main\obj\Debug\net6.0\ConsoleApp5.genruntimeconfig.cache
